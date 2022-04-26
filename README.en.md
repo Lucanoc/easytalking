@@ -1,4 +1,4 @@
-# 简易版并发网络聊天程序
+# easytalking
 
 #### Description
 a simple communicating server and client.
